@@ -1,0 +1,469 @@
+{
+  "appliances": [
+    {
+      "serialNo": "JTD-512312",
+      "theatreName": "Kriplle Square",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India"
+      },
+      "bandwidth": "1 Gbps",
+      "avgBandwidth": "812 Kbps",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Failed",
+      "osVersion": "5.2.1.3",
+      "id": 1
+    },
+    {
+      "serialNo": "CNI-512121",
+      "theatreName": "Kasi Square",
+      "location": {
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India"
+      },
+      "bandwidth": "1 Gbps",
+      "avgBandwidth": "812 Kbps",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Scheduled",
+      "osVersion": "5.2.1.3",
+      "id": 2
+    },
+    {
+      "serialNo": "TRD-982134",
+      "theatreName": "Pioneer Plaza",
+      "location": {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "bandwidth": "750 Mbps",
+      "avgBandwidth": "635 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "6.0.0",
+      "id": 3
+    },
+    {
+      "serialNo": "HGD-672341",
+      "theatreName": "CineMax Central",
+      "location": {
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "bandwidth": "500 Mbps",
+      "avgBandwidth": "492 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.3.2",
+      "id": 4
+    },
+    {
+      "serialNo": "MKD-345612",
+      "theatreName": "Starlight Cinema",
+      "location": {
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India"
+      },
+      "bandwidth": "2 Gbps",
+      "avgBandwidth": "1.2 Mbps",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Cancelled",
+      "osVersion": "5.2.1",
+      "id": 5
+    },
+    {
+      "serialNo": "HTR-890123",
+      "theatreName": "Galaxy Multiplex",
+      "location": {
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India"
+      },
+      "bandwidth": "800 Mbps",
+      "avgBandwidth": "723 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Failed",
+      "osVersion": "5.4.0",
+      "id": 6
+    },
+    {
+      "serialNo": "PLM-456789",
+      "theatreName": "Silver Screens",
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India"
+      },
+      "bandwidth": "1.5 Gbps",
+      "avgBandwidth": "1 Mbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.2.3",
+      "id": 7
+    },
+    {
+      "serialNo": "QWE-234567",
+      "theatreName": "Royal Theatre",
+      "location": {
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "country": "India"
+      },
+      "bandwidth": "900 Mbps",
+      "avgBandwidth": "815 Kbps",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.3.1",
+      "id": 8
+    },
+    {
+      "serialNo": "WED-678901",
+      "theatreName": "Regal Cinemas",
+      "location": {
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "bandwidth": "600 Mbps",
+      "avgBandwidth": "530 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Failed",
+      "osVersion": "5.2.2",
+      "id": 9
+    },
+    {
+      "serialNo": "ZXC-123456",
+      "theatreName": "Paramount Theatre",
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "bandwidth": "1.2 Gbps",
+      "avgBandwidth": "950 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Cancelled",
+      "osVersion": "5.3.0",
+      "id": 10
+    },
+    {
+      "serialNo": "QAZ-789012",
+      "theatreName": "Grand Cinemas",
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "bandwidth": "700 Mbps",
+      "avgBandwidth": "615 Kbps",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Failed",
+      "osVersion": "5.2.1.1",
+      "id": 11
+    },
+    {
+      "serialNo": "ASD-890123",
+      "theatreName": "Empire Theatre",
+      "location": {
+        "city": "Surat",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "bandwidth": "850 Mbps",
+      "avgBandwidth": "720 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.3.3",
+      "id": 12
+    },
+    {
+      "serialNo": "FGH-345678",
+      "theatreName": "Diamond Cinema",
+      "location": {
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "country": "India"
+      },
+      "bandwidth": "550 Mbps",
+      "avgBandwidth": "480 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.2.4",
+      "id": 13
+    },
+    {
+      "serialNo": "QWE-901234",
+      "theatreName": "Apollo Theatre",
+      "location": {
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "bandwidth": "950 Mbps",
+      "avgBandwidth": "835 Kbps",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Cancelled",
+      "osVersion": "5.3.2.1",
+      "id": 14
+    },
+    {
+      "serialNo": "TYU-234567",
+      "theatreName": "Majestic Cinema",
+      "location": {
+        "city": "Agra",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "bandwidth": "1.1 Gbps",
+      "avgBandwidth": "910 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Failed",
+      "osVersion": "5.2.0",
+      "id": 15
+    },
+    {
+      "serialNo": "JKL-678901",
+      "theatreName": "Rex Theatre",
+      "location": {
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "country": "India"
+      },
+      "bandwidth": "700 Mbps",
+      "avgBandwidth": "625 Kbps",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.3.1",
+      "id": 16
+    },
+    {
+      "serialNo": "BNM-345678",
+      "theatreName": "Metro Cinema",
+      "location": {
+        "city": "Amritsar",
+        "state": "Punjab",
+        "country": "India"
+      },
+      "bandwidth": "850 Mbps",
+      "avgBandwidth": "730 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.2.2",
+      "id": 17
+    },
+    {
+      "serialNo": "WER-901234",
+      "theatreName": "Cinema Paradiso",
+      "location": {
+        "city": "Kanpur",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "bandwidth": "900 Mbps",
+      "avgBandwidth": "820 Kbps",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Cancelled",
+      "osVersion": "5.3.0",
+      "id": 18
+    },
+    {
+      "serialNo": "UIO-234567",
+      "theatreName": "Odeon Cinemas",
+      "location": {
+        "city": "Chandigarh",
+        "state": "Punjab",
+        "country": "India"
+      },
+      "bandwidth": "1 Gbps",
+      "avgBandwidth": "890 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Failed",
+      "osVersion": "5.2.1.2",
+      "id": 19
+    },
+    {
+      "serialNo": "ERT-678901",
+      "theatreName": "Capitol Theatre",
+      "location": {
+        "city": "Thiruvananthapuram",
+        "state": "Kerala",
+        "country": "India"
+      },
+      "bandwidth": "750 Mbps",
+      "avgBandwidth": "655 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.3.3",
+      "id": 20
+    },
+    {
+      "serialNo": "FGH-123456",
+      "theatreName": "Globe Theatre",
+      "location": {
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "country": "India"
+      },
+      "bandwidth": "1.2 Gbps",
+      "avgBandwidth": "950 Kbps",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.2.4",
+      "id": 21
+    },
+    {
+      "serialNo": "SDF-789012",
+      "theatreName": "Eros Theatre",
+      "location": {
+        "city": "Faridabad",
+        "state": "Haryana",
+        "country": "India"
+      },
+      "bandwidth": "600 Mbps",
+      "avgBandwidth": "540 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Failed",
+      "osVersion": "5.2.2",
+      "id": 22
+    },
+    {
+      "serialNo": "XCV-890123",
+      "theatreName": "Palace Cinemas",
+      "location": {
+        "city": "Gurgaon",
+        "state": "Haryana",
+        "country": "India"
+      },
+      "bandwidth": "800 Mbps",
+      "avgBandwidth": "735 Kbps",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Cancelled",
+      "osVersion": "5.3.1",
+      "id": 23
+    },
+    {
+      "serialNo": "ZXC-234567",
+      "theatreName": "Liberty Cinema",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "bandwidth": "950 Mbps",
+      "avgBandwidth": "860 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Failed",
+      "osVersion": "5.2.0",
+      "id": 24
+    },
+    {
+      "serialNo": "CVB-678901",
+      "theatreName": "MGM Grand Cinemas",
+      "location": {
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "bandwidth": "1.1 Gbps",
+      "avgBandwidth": "915 Kbps",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.3.2",
+      "id": 25
+    },
+    {
+      "serialNo": "QWE-345678",
+      "theatreName": "Carnival Cinemas",
+      "location": {
+        "city": "Allahabad",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "bandwidth": "700 Mbps",
+      "avgBandwidth": "630 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.2.3",
+      "id": 26
+    },
+    {
+      "serialNo": "TYU-901234",
+      "theatreName": "Inox Cinemas",
+      "location": {
+        "city": "Dehradun",
+        "state": "Uttarakhand",
+        "country": "India"
+      },
+      "bandwidth": "850 Mbps",
+      "avgBandwidth": "745 Kbps",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Failed",
+      "osVersion": "5.3.0",
+      "id": 27
+    },
+    {
+      "serialNo": "IOP-234567",
+      "theatreName": "Cinepolis Cinemas",
+      "location": {
+        "city": "Guwahati",
+        "state": "Assam",
+        "country": "India"
+      },
+      "bandwidth": "900 Mbps",
+      "avgBandwidth": "810 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.2.1",
+      "id": 28
+    },
+    {
+      "serialNo": "JKL-678901",
+      "theatreName": "Rex Theatre",
+      "location": {
+        "city": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "country": "India"
+      },
+      "bandwidth": "600 Mbps",
+      "avgBandwidth": "540 Kbps",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.2.4",
+      "id": 29
+    },
+    {
+      "serialNo": "BNM-123456",
+      "theatreName": "Metro Cinema",
+      "location": {
+        "city": "Patna",
+        "state": "Bihar",
+        "country": "India"
+      },
+      "bandwidth": "1 Gbps",
+      "avgBandwidth": "880 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Failed",
+      "osVersion": "5.3.3",
+      "id": 30
+    },
+    {
+      "serialNo": "WER-789012",
+      "theatreName": "Cinema Paradiso",
+      "location": {
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "country": "India"
+      },
+      "bandwidth": "750 Mbps",
+      "avgBandwidth": "670 Kbps",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.2.0",
+      "id": 31
+    }
+  ]
+}
