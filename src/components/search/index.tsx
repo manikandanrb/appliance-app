@@ -1,7 +1,7 @@
 import { SearchIcon } from '@/resources/icons/search';
 import { Input } from '@nextui-org/react';
 import { debounce } from 'lodash';
-import { FC, useEffect, useState } from 'react';
+import { FC, useEffect, useRef, useState } from 'react';
 
 interface SearchInputProps {
   value: string;
@@ -11,9 +11,16 @@ interface SearchInputProps {
 const SearchInput: FC<SearchInputProps> = (props) => {
   const { value, onChange } = props;
   const [inputValue, setInputValue] = useState(value);
+  const inputRef = useRef<HTMLInputElement>(null);
 
   // Debounce the onChange function
   const debouncedOnChange = debounce(onChange, 500);
+
+  useEffect(() => {
+    if (inputRef?.current) {
+      inputRef.current.focus();
+    }
+  }, [value]);
 
   // Update the debounced function whenever the value changes
   useEffect(() => {
@@ -32,6 +39,7 @@ const SearchInput: FC<SearchInputProps> = (props) => {
 
   return (
     <Input
+      ref={inputRef}
       radius="lg"
       classNames={{
         label: 'text-black/50 dark:text-white/90',
